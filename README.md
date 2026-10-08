@@ -4,6 +4,6 @@ Team members:
 - Annachelle
 - Josh
 - Angeline
-- Joefelyn
+- joefelyn
 
 
