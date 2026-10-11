@@ -2,7 +2,7 @@
 Team members:
 - Michelle
 - Annachelle
-- Josh
+- Josh 
 - Angeline
 - joefelyn
 
